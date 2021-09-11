@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=trackstopwatch
+Exec=trackstopwatch
+Icon=org.bpc.trackstopwatch
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

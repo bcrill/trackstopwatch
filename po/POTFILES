@@ -1,0 +1,7 @@
+data/org.bpc.trackstopwatch.desktop.in
+data/org.bpc.trackstopwatch.appdata.xml.in
+data/org.bpc.trackstopwatch.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+
