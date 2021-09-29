@@ -29,7 +29,8 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "url" : "file:///home/bcrill/Projects/trackstopwatch"
+                    "url" : "file:///home/bcrill/Projects/trackstopwatch",
+                    "branch" : "main"
                 }
             ]
         }

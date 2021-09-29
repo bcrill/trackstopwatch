@@ -2,4 +2,6 @@
 <schemalist gettext-domain="trackstopwatch">
 	<schema id="org.bpc.trackstopwatch" path="/org/bpc/trackstopwatch/">
 	</schema>
+        <description>
+        </description>
 </schemalist>
